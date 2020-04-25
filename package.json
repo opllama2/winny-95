@@ -1,0 +1,21 @@
+{
+    "name": "winny-95",
+    "displayName": "winny-95",
+    "description": "A Windows 95 inspired theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Winny95",
+                "uiTheme": "vs",
+                "path": "./themes/Winny95-color-theme.json"
+            }
+        ]
+    }
+}
